@@ -1,8 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 <p>My name is Colter Ulrich and I'm a Full Stack Software Engineer with experience in Ruby on Rails, JavaScript, React.js, and C++.</p>
 <br>
 <p>I am passionate about using technology to help evolve the world around me, both by programming and by creating electronic music. Constant learning and applying my knowledge to solve problems are key to me. </p>
 <br>
+
+### Projects 🔭
+
+* Audio Effect Plugins used to alter incoming signals before outputting. Written in C++ utilizing the JUCE framework.
+    - [Repos Here](https://github.com/cju5025?tab=repositories&q=&type=&language=c%2B%2B)
+* Family Time Website: A functional CRUD application made to host the audio effect plugins I have developed.
+    - [Frontend Repo](https://github.com/cju5025/Family-Time-Website-Frontend) | [Backend Repo](https://github.com/cju5025/Family-Time-Website-Backend)
 
 <!--
 **cju5025/cju5025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
