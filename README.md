@@ -13,7 +13,7 @@
 
     [![My github stats](https://github-readme-stats.vercel.app/api?username=cju5025)](https://github.com/cju5025/github-readme-stats)
 
-! [LinkedIn Logo](https://ibb.co/album/Rp7BxJ)
+<!-- ! [LinkedIn Logo](./assets/android-chrome-512x512.png) -->
 
 
 <!--
