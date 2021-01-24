@@ -11,7 +11,9 @@
 * Family Time Website: A functional CRUD application made to host the audio effect plugins I have developed.
     - [Frontend Repo](https://github.com/cju5025/Family-Time-Website-Frontend) | [Backend Repo](https://github.com/cju5025/Family-Time-Website-Backend)
 
-    [![My github stats](https://github-readme-stats.vercel.app/api?username=cju5025)](https://github.com/cju5025/github-readme-stats&show_icons=true&theme=react)
+    [![My github stats](https://github-readme-stats.vercel.app/api?username=cju5025)](https://github.com/cju5025/github-readme-stats)
+
+! [LinkedIn Logo](https://ibb.co/album/Rp7BxJ)
 
 
 <!--
