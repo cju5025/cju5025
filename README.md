@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>My name is Colter Ulrich and I'm a Full Stack Software Engineer with experience in Ruby on Rails, JavaScript, React.js, and C++.</p>
+<p>My name is Colter Ulrich and I'm a Full Stack Software Engineer with experience in Ruby on Rails, JavaScript, React.js, Express.js and C++.</p>
 <br>
 <p>I am passionate about using technology to help evolve the world around me, both by programming and by creating electronic music. Constant learning and applying my knowledge to solve problems are key to me. </p>
 <br>
