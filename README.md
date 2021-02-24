@@ -5,9 +5,12 @@
 <br>
 
 ### Projects 🔭
+* Audatix: A CRUD application designed for sound designers to host and sell their work as well as network with individuals in need of sound design to commission custom sounds. Made with a React frontend and a Node/Express backend. 
+    - [Frontend Repo](https://github.com/cju5025/Audatix-Frontend) | [Backend Repo](https://github.com/cju5025/Audatix-Backend)
 
 * Audio Effect Plugins used to alter incoming signals before outputting. Written in C++ utilizing the JUCE framework.
     - [Repos](https://github.com/cju5025?tab=repositories&q=&type=&language=c%2B%2B)
+    - 
 * Family Time Website: A functional CRUD application made to host the audio effect plugins I have developed.
     - [Frontend Repo](https://github.com/cju5025/Family-Time-Website-Frontend) | [Backend Repo](https://github.com/cju5025/Family-Time-Website-Backend)
 
