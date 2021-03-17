@@ -1,11 +1,11 @@
 ## Hi there 👋
-<p>My name is Colter Ulrich and I'm a Full Stack Software Engineer with experience in Ruby on Rails, JavaScript, React.js, Express.js and C++.</p>
+<p>My name is Colter Ulrich and I'm a Full Stack Software Engineer with experience in Ruby on Rails, JavaScript, React, Express, Go and C++.</p>
 <br>
 <p>I am passionate about using technology to help evolve the world around me, both by programming and by creating electronic music. Constant learning and applying my knowledge to solve problems are key to me. </p>
 <br>
 
 ### Projects 🔭
-* Audatix: A CRUD application designed for sound designers to host and sell their work as well as network with individuals in need of sound design to commission custom sounds. Made with a React frontend and a Node/Express backend. 
+* Audatix: A CRUD application with a REST API designed for sound designers to host and sell their work as well as network with individuals in need of sound design to commission custom sounds. Frontend made with React, backend made with Express.
     - [Frontend Repo](https://github.com/cju5025/Audatix-Frontend) | [Backend Repo](https://github.com/cju5025/Audatix-Backend)
 
 * Audio Effect Plugins used to alter incoming signals before outputting. Written in C++ utilizing the JUCE framework.
